@@ -1,1 +1,2 @@
-This is book store project built using mernstack. 
+This is book store project built using mernstack
+
